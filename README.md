@@ -1,6 +1,6 @@
 # Moviwee Project
 
-in order to acces design via figma here is the link:
+in order to acces design via figma here is the link: https://www.figma.com/file/j6cFTVhrmSQZiCiEqxLzzK/MOVIWEE?node-id=0%3A1&t=CvfqLarVHsUIMV6t-1
 
 
 
